@@ -1,0 +1,14 @@
+{
+  "name": "scratch_start",
+  "version": "1.0.0",
+  "description": "Expense Management Application - Project2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express-stormpath": "^3.1.7"
+  }
+}
