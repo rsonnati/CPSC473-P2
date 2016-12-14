@@ -1,0 +1,15 @@
+Install NPM
+Download from:https://www.npmjs.com/package/download
+
+Install NodeJS:
+Download from: https://nodejs.org/en/download/
+
+Install MongoDB:
+https://www.mongodb.com/download-center#community
+
+
+Extract the project .tar file and traverse to the root directory via. Terminal
+
+Execute:
+
+node server.js
